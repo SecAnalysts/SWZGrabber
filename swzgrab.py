@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-#Coded BY pelandok
-#secanalyst 2014
+#Coded BY SecAnalysts
+#SatamCyberTeam
 
 from urllib2 import Request, urlopen, URLError, HTTPError
 
@@ -34,8 +34,8 @@ def grabfile():
 def Credit():
 	Space(9); print "##########################################"
 	Space(9); print "#        +++ SWZ Grabber +++             #"
-	Space(9); print "#      Script Coded By @pelandok         #"
-	Space(9); print "#     Secanalyst Copyright 2014          #"
+	Space(9); print "#      Script Coded By SecAnalysts       #"
+	Space(9); print "#     SCTeam Copyright 2019              #"
 	Space(9); print "##########################################"
 
 Credit()
